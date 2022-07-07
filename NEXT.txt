@@ -1,0 +1,3 @@
+- natürlicher logarithmus -> ln
+- log with float
+- cos, sin, tan
